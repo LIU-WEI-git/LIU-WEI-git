@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 <!--
 **LIU-WEI-git/LIU-WEI-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Master of Computer Science and Technology from Northwestern Polytechnical University in 2024
+
+🎓 Bachelor of Software Engineering from Northwestern Polytechnical University in 2021
+
+📫 Email: timcross-wei@qq.com
